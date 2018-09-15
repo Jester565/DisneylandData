@@ -5,7 +5,7 @@ NOTE: The csv containing FastPasses and wait times was too large to fit on GitHu
 In order to reduce the size of the dataset, IDs are used for rides and parks.  You can find the ride name to ID mapping in rides.csv.
 ```
 ParkIDs:
-Disneyland: 					330339
+Disneyland:                     330339
 Disney's California Adventures: 336894
 ```
 Gathering this amount of data was one of the bottlenecks of my projects.  My intent is to publish what I gathered in case other people want to use the data for a similar project (probably not very many).  
