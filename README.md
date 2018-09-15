@@ -1,4 +1,4 @@
-# DisneyData
+# DisneylandData
 NOTE: The csv containing FastPasses and wait times was too large to fit on GitHub.  You can find it on my [S3 Bucket](https://s3-us-west-2.amazonaws.com/disneyridetimes/disneyRideTimes.csv).  
 
 526 days of Disneyland data.  Wait times and FastPass times are collected every 30 minutes and weather is stored by the hour.  
