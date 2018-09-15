@@ -1,0 +1,111 @@
+id,parkID,name,land,height
+353289,336894,Animation Academy,Hollywood Land,NULL
+353291,330339,Astro Orbitor,Tomorrowland,NULL
+353293,330339,Autopia,Tomorrowland,32
+353295,330339,Big Thunder Mountain Railroad,Frontierland,40
+353301,330339,Buzz Lightyear Astro Blasters ,Tomorrowland,NULL
+353303,336894,California Screamin',Pixar Pier,48
+353305,330339,Casey Jr. Circus Train,Fantasyland,NULL
+353309,330339,Chip 'n Dale Treehouse,Mickey's Toontown,NULL
+353311,330339,Davy Crockett's Explorer Canoes,Critter Country,NULL
+353313,330339,Disneyland Monorail,Tomorrowland,NULL
+353315,330339,Disneyland Railroad,"Main Street, U.S.A.",NULL
+353321,330339,Donald's Boat,Mickey's Toontown,NULL
+353323,330339,Dumbo the Flying Elephant,Fantasyland,NULL
+353325,330339,Enchanted Tiki Room,Adventureland,NULL
+353327,330339,Finding Nemo Submarine Voyage,Tomorrowland,NULL
+353329,330339,"Fire Engine, presented by National Car Rental",NULL,NULL
+353331,336894,Flik's Flyers,a bug's land,NULL
+353333,336894,Francis' Ladybug Boogie,a bug's land,NULL
+353335,330339,Frontierland Shootin' Exposition,Frontierland,NULL
+353337,330339,Gadget's Go Coaster,Mickey's Toontown,35
+353339,336894,Games of the Boardwalk,Paradise Pier,NULL
+353341,336894,Golden Zephyr,Paradise Pier,NULL
+353343,330339,Goofy's Playhouse,Mickey's Toontown,NULL
+353345,336894,Grizzly River Run,Grizzly Peak,42
+353347,330339,Haunted Mansion,New Orleans Square,NULL
+353349,336894,Heimlich's Chew Chew Train,a bug's land,NULL
+353351,330339,"Horse-Drawn Streetcars, presented by National Car Rental",NULL,NULL
+353353,330339,"Horseless Carriage, presented by National Car Rental",NULL,NULL
+353355,330339,Indiana Jones Adventure ,Adventureland,46
+353359,336894,It's Tough to be a Bug!,NULL,NULL
+353361,336894,Jumpin' Jellyfish,Paradise Pier,40
+353363,330339,Jungle Cruise,Adventureland,NULL
+353365,330339,King Arthur Carrousel,Fantasyland,NULL
+353367,336894,King Triton's Carousel,Paradise Pier,NULL
+353369,330339,Mad Tea Party ,Fantasyland,NULL
+353371,330339,Main Street Cinema,"Main Street, U.S.A.",NULL
+353375,330339,Mark Twain Riverboat,Frontierland,NULL
+353377,330339,Matterhorn Bobsleds,Fantasyland,42
+353379,336894,Mickey's Fun Wheel,Paradise Pier,NULL
+353381,330339,Mickey's House and Meet Mickey,Mickey's Toontown,NULL
+353383,330339,Minnie's House,Mickey's Toontown,NULL
+353387,336894,"Monsters, Inc. Mike & Sulley to the Rescue!",Hollywood Land,NULL
+353389,330339,Mr. Toad's Wild Ride ,Fantasyland,NULL
+353395,330339,"Omnibus, presented by National Car Rental",NULL,NULL
+353399,330339,Peter Pan's Flight ,Fantasyland,NULL
+353401,330339,Pinocchio's Daring Journey,Fantasyland,NULL
+353403,330339,Pirate's Lair on Tom Sawyer Island,Frontierland,NULL
+353405,330339,Pirates of the Caribbean ,New Orleans Square,NULL
+353409,336894,Princess Dot Puddle Park,a bug's land,NULL
+353413,336894,Redwood Creek Challenge Trail,Grizzly Peak,NULL
+353421,330339,Roger Rabbit's Car Toon Spin,Mickey's Toontown,NULL
+353425,330339,Sailing Ship Columbia,Frontierland,NULL
+353427,330339,Sleeping Beauty Castle Walkthrough,Fantasyland,NULL
+353429,330339,Snow White's Scary Adventures,Fantasyland,NULL
+353431,336894,Soarin' Around the World,Grizzly Peak,40
+353433,336894,Sorcerer's Workshop,Hollywood Land,NULL
+353435,330339,Hyperspace Mountain,Tomorrowland,40
+353437,330339,Splash Mountain,Critter Country,40
+353439,330339,Star Tours - The Adventures Continue,Tomorrowland,40
+353443,330339,Storybook Land Canal Boats,Fantasyland,NULL
+353445,330339,Tarzan's Treehouse,Adventureland,NULL
+353447,336894,The Bakery Tour,Pacific Wharf,NULL
+353449,330339,The Many Adventures of Winnie the Pooh,Critter Country,NULL
+353451,336894,Guardians of the Galaxy – Mission: BREAKOUT!,Hollywood Land,40
+353453,336894,Toy Story Midway Mania!,Paradise Pier,NULL
+353455,336894,Tuck and Roll's Drive 'Em Buggies,a bug's land,36
+353457,336894,Turtle Talk with Crush,Hollywood Land,NULL
+353461,330339,The Disneyland Story presenting Great Moments with Mr. Lincoln,"Main Street, U.S.A.",NULL
+367492,330339,it's a small world,Fantasyland,NULL
+367495,330339,Alice in Wonderland,Fantasyland,NULL
+393385,330339,Main Street Vehicles,"Main Street, U.S.A.",NULL
+3433651,330339,Pixie Hollow,NULL,NULL
+15510732,336894,Silly Symphony Swings,Paradise Pier,40
+15575069,336894,The Little Mermaid - Ariel's Undersea Adventure,Paradise Pier,NULL
+15822029,336894,Goofy's Sky School,Paradise Pier,42
+16203280,336894,World of Color,NULL,NULL
+16204726,330339,Fantasmic!,NULL,NULL
+16514416,336894,Radiator Springs Racers,Cars Land,40
+16514431,336894,Mater's Junkyard Jamboree,Cars Land,32
+16581435,336894,Red Car Trolley,Buena Vista Street,NULL
+17328049,336894,Red Car Trolley - Hollywood Land,NULL,NULL
+17328050,336894,Red Car Trolley - Carthay Circle,NULL,NULL
+17734741,330339,The Disney Gallery,"Main Street, U.S.A.",NULL
+18171939,330339,Trick or Treating at Mickey’s Halloween Party,NULL,NULL
+18237168,330339,Jingle Cruise,NULL,NULL
+18237232,330339,it's a small world Holiday,Fantasyland,NULL
+18237343,330339,Star Wars Launch Bay,Tomorrowland,NULL
+18237368,330339,Space Mountain,Tomorrowland,40
+18243993,330339,Star Wars: Path of the Jedi,Tomorrowland,NULL
+18249927,330339,Haunted Mansion Holiday,New Orleans Square,NULL
+18343088,336894,Luigi's Rollickin' Roadsters,Cars Land,32
+18426726,336894,Frozen at Disneyland Resort,Disneyland Resort,NULL
+18449559,330339,Space Mountain Ghost Galaxy,Tomorrowland,40
+18452199,330339,Main Street Pumpkin Festival,"Main Street, U.S.A.",NULL
+18505453,336894,"Disney's ""Moana” Sneak Peek",NULL,NULL
+18532806,330339,Holiday Décor,Disneyland Resort,NULL
+18693648,336894,"Disney's ""Pirates of the Caribbean: Dead Men Tell No Tales” Sneak Peek",NULL,NULL
+18699366,336894,Hero Action Center,NULL,NULL
+18710579,336894,"Disney•Pixar's ""Cars 3"" Sneak Peek",NULL,NULL
+18736067,336894,Summer of Heroes Showcase,NULL,NULL
+18741420,330339,Mickey's Park Rangers on the Rivers of America,NULL,NULL
+18752875,336894,Mater's Graveyard Jam-BOO-ree,NULL,NULL
+18752877,336894,Luigi's Honkin' Haul-O-Ween,NULL,NULL
+18755618,336894,Twisted Tales Décor,Disneyland Resort,NULL
+18766536,336894,“Thor: Ragnarok” Sneak Peek,NULL,NULL
+18766537,336894,"Disney•Pixar's ""Coco"" Sneak Peek",NULL,NULL
+18774860,336894,Guardians of the Galaxy – Monsters After Dark,Hollywood Land,40
+18848246,336894,Luigi's Joy to the Whirl,Cars Land,32
+18848247,336894,Mater's Jingle Jamboree,Cars Land,32
+18946452,336894,"Disney's ""A Wrinkle in Time"" Sneak Peek",NULL,NULL
